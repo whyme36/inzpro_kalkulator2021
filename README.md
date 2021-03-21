@@ -1,4 +1,4 @@
-# Kalkulator 
+# Kalkulator  - instukcja obslugi
 
 To jest prosty projekt kalkulatora
 

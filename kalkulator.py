@@ -1,7 +1,5 @@
-def dodaj():
-    print('Wprowadz dwie liczby')
-    a=int(input())
-    b = int(input())
-    print(a+b)
+def dodaj(a,b):
+    wynik=a+b
+    return wynik
 
 dodaj()
